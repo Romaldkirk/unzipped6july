@@ -1,0 +1,1 @@
+# Full script is in memory from the canvas session

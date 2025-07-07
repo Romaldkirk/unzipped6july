@@ -1,0 +1,1 @@
+# Canvas content now confirmed with early blocklist check and redundant block removed.

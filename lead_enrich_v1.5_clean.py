@@ -1,0 +1,1 @@
+# Patched canvas with correct line: no trailing parenthesis in sponsor SELECT
